@@ -20,3 +20,6 @@ public class groupAnagram {
     }
 }
 
+
+// used the method o reversing number and checking the both number is the same or not.
+
