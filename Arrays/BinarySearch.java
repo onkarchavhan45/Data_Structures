@@ -28,3 +28,5 @@ public class BinarySearch {
     return -1;
     }
 }
+
+//Binary search algorithm problem sovled.
